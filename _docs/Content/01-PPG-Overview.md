@@ -23,3 +23,7 @@ Think about your Goals in each of these areas over the next 3 months and then ye
 - Competition
 - Accomplishments
 - Strengths to build
+
+
+
+
