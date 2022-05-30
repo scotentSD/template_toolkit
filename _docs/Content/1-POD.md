@@ -1,7 +1,7 @@
 ---
 title: POD 1
 category: Sessions
-order: 1ß
+order: 1
 published: true
 ---
 
