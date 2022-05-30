@@ -6,7 +6,7 @@ published: true
 ---
 
 
-|         |                           |                                                              |
+|   Minutes      |      Theme                     |     Detail                                                         |
 | ------- | ------------------------- | ------------------------------------------------------------ |
 | 0-10    | Warmup <br />(On Land)    | **Thoracic Rotation * 3**    <br />- Rotate in the Pipe (Back of hand on rear pelvis    <br />- Cat Cow    <br />◦ Thread the needle <> Reach for the stars <br />**Hip Flexors**    <br />◦ Kneeling Lunge    <br />◦ Wide Squat    <br />◦ Frog <br />**Joint Rotations** <br />- Ankles <br />- Wrists <br />- Shoulders |
 | 10-15   | Warmup <br />(On Water)   | • Gentle Paddle <br />• Start to speed it up a bit <br />• Head around the Buoys |
