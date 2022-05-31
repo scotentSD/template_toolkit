@@ -5,8 +5,8 @@ order: 3
 published: true
 ---
 
-|10-15 	Warmup (On Water)| 	
-|-------|
+| 10-15 	Warmup (On Water) | 	
+| ------- | 
 
 - Gentle Paddle
 - Start to speed it up a bit
