@@ -33,6 +33,10 @@ published: true
 ## 75-80 	Rest and Water 	 
 - Beathe...
 
+| 15-75 | Safari Intervals |
+| ----------- | ----------- |
+| 15-75 | Safari Intervals |
+
 ## 80-90 	Skills 	Fun Turn This Week:
 Concentrate on 3 Steps and then Turn
 Remember the Basics
