@@ -11,6 +11,8 @@ published: true
 - Start to speed it up a bit
 - Head around the Buoys
 
+|10-15 	Warmup (On Water)| 	
+|-------|
 ## 15-75 	Safari Intervals 	
 **Heading to Todd Seat:**
 - 10 X 60 second Sprints <> 60 second Recovery ( 20 Mins)
