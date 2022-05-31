@@ -5,6 +5,14 @@ order: 3
 published: true
 ---
 
+<style>
+h2 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+
+
 | 10-15 	Warmup(On Water) | 	
 | ------- | 
 
