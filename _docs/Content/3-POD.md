@@ -12,8 +12,8 @@ published: true
 
 ## 15-75 	Safari Intervals 	
 **Heading to Todd Seat:**
-- 10 * 60 second Sprints <> 60 second Recovery ( 20 Mins)
-- 6 * 90 second Sprints <> 60 Second Recovery ( 15 Mins)
+- 10 X 60 second Sprints <> 60 second Recovery ( 20 Mins)
+- 6 X 90 second Sprints <> 60 Second Recovery ( 15 Mins)
 
 **Return Trip from Todd Seat:**
 - 1 min RPE_8 20Seconds RPE_10 and repeat
