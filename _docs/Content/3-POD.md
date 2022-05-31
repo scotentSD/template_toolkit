@@ -5,7 +5,7 @@ order: 3
 published: true
 ---
 
-| 10-15 	Warmup (On Water) | 	
+| 10-15 	Warmup(On Water) | 	
 | ------- | 
 
 - Gentle Paddle
@@ -22,8 +22,8 @@ published: true
 - 10 X 60 second Sprints <> 60 second Recovery ( 20 Mins)
 - 6 X 90 second Sprints <> 60 Second Recovery ( 15 Mins)
 
-| 10-15  |	Warmup (On Water) | 	
-| ------- | ------|
+| 10-15  |	Warmup(On Water) | 	
+| ------- | ------ |
 
 **Return Trip from Todd Seat:**
 - 1 min RPE_8 20Seconds RPE_10 and repeat
