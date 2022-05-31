@@ -5,6 +5,14 @@ order: 1
 published: true
 ---
 
+<style>
+h2 {
+  color: black;
+  margin-left: 5px;
+  background-color: coral
+}
+</style>
+
 # PPG Day 1 : 16th May 2022
 
 
