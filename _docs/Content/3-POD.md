@@ -11,9 +11,9 @@ published: true
 - Start to speed it up a bit
 - Head around the Buoys
 
-| Syntax | Description |
+| Minutes | Theme |
 | ----------- | ----------- |
-| Header | Title |
+| 15-75 | Safari Intervals |
 
 
 ## 15-75 	Safari Intervals 	
