@@ -4,7 +4,6 @@ category: Sessions
 order: 1
 published: true
 ---
-
 <style>
 h3 {
   color: white;
@@ -13,9 +12,7 @@ h3 {
   background-color: blue 
 }
 </style>
-
 #### 16th May 2022
-
 
 ### Warmup (On Land) 
 #### Thoracic Rotation * 3** 
