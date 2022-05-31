@@ -5,7 +5,7 @@ order: 3
 published: true
 ---
 
-|## 10-15 	Warmup (On Water)| 	
+## 10-15 	Warmup (On Water) 	
 - Gentle Paddle
 - Start to speed it up a bit
 - Head around the Buoys
@@ -34,7 +34,4 @@ Relays 	M Shaped Course but with looser corners
 
 ## 115-120 	Warmdown 	 
 
-## Goals 	 
-
-
-
+## Goals
