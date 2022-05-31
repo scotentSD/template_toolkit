@@ -15,7 +15,7 @@ h2 {
 }
 </style>
 
-# PPG Day 1 : 16th May 2022
+### 16th May 2022
 
 
 ## Warmup (On Land) 
