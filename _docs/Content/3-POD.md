@@ -13,14 +13,19 @@ h2 {
 }
 </style>
 
+| 0-10  |	Warmup(On Land) | 	
+| ------- | ------ |
+|    |    |
+
+| 10-15  |	Warmup(On Water) | 	
+| ------- | ------ |
+|    |    |
 
 - Gentle Paddle
 - Start to speed it up a bit
 - Head around the Buoys
 
-| Minutes | Theme |
-| ----------- | ----------- |
-| 15-75 | Safari Intervals |
+
 
 
 ## 15-75 	Safari Intervals 	
@@ -28,9 +33,7 @@ h2 {
 - 10 X 60 second Sprints <> 60 second Recovery ( 20 Mins)
 - 6 X 90 second Sprints <> 60 Second Recovery ( 15 Mins)
 
-| 10-15  |	Warmup(On Water) | 	
-| ------- | ------ |
-|    |    |
+
 
 
 **Return Trip from Todd Seat:**
@@ -40,9 +43,7 @@ h2 {
 ## 75-80 	Rest and Water 	 
 - Beathe...
 
-| 15-75 | Safari Intervals |
-| ----------- | ----------- |
-| 15-75 | Safari Intervals  |
+
 
 ## 80-90 	Skills 	Fun Turn This Week:
 Concentrate on 3 Steps and then Turn
