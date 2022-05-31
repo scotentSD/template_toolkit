@@ -7,7 +7,7 @@ published: true
 
 <style>
 h2 {
-  color: green;
+  color: black;
   margin-left: 5px;
   background-color: coral
 }
