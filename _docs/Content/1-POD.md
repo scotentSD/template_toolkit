@@ -9,6 +9,7 @@ published: true
 h2 {
   color: black;
   margin: 5px;
+  padding: 5px;
   background-color: coral
     
 }
