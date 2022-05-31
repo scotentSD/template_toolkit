@@ -8,7 +8,7 @@ published: true
 # PPG Day 1 : 16th May 2022
 
 
- ## Warmup (On Land) 
+## Warmup (On Land) 
 ### Thoracic Rotation * 3** 
 - Rotate in the Pipe (Back of hand on rear pelvis)
 - Cat Cow
@@ -44,4 +44,4 @@ published: true
 
 ## Warmdown     
 
-## Goals   Chat about types of Goals  
+## Goals   Chat about types of Goals
