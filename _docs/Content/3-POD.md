@@ -26,6 +26,9 @@ published: true
 | ------- | ------ |
 |    |    |
 
+| 10-15  |	Warmup(On Water) | 	
+| ------- | ------ |
+
 **Return Trip from Todd Seat:**
 - 1 min RPE_8 20Seconds RPE_10 and repeat
 - Lactate Buffering (fun?)
