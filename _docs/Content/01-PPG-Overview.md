@@ -4,6 +4,7 @@ category: PPG
 order: 10
 published: true
 ---
+
 The Performance Paddle Group (PPG) is here to raise  your performance levels in racing, touring or just enjoying a paddle. 
 
 These sections will show you how we are structuring training. 
@@ -22,4 +23,3 @@ They are deliberately "Bite Size" and as free of Jargon as possible.
    - (Racing can be fun as well)
 - Goals
    - What do you want to get out of PPG
-   
