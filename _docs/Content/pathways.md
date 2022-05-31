@@ -1,3 +1,9 @@
+---
+title: Pathways
+category: PPG
+order: 40
+published: true
+---
 
 - Improve general Fitness
     - Aerobic Endurance
