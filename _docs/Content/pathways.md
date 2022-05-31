@@ -16,3 +16,4 @@ published: true
     - Base Distance
     - Interval Speed Training
     - Strength Training
+    
