@@ -8,7 +8,6 @@ published: true
 <style>
 h4 {
   color: white;
-  margin: 5px;
   padding: 5px;
   background-color: blue 
 }
