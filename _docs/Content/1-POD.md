@@ -54,4 +54,5 @@ h2 {
 
 ## Warmdown     
 
-## Goals   Chat about types of Goals
+## Goals   
+- Chat about types of Goals
