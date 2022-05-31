@@ -11,8 +11,10 @@ published: true
 - Start to speed it up a bit
 - Head around the Buoys
 
-|10-15 	Warmup (On Water)| 	
-|-------|
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+
 
 ## 15-75 	Safari Intervals 	
 **Heading to Todd Seat:**
