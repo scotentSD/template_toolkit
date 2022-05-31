@@ -15,20 +15,17 @@ h4 {
 
 #### 0-10 Warmup (On Land)
 **Thoracic Rotations**
-
 - Rotate in the Pipe (Back of hand on rear pelvis)
 - Cat Cow
 - Thread the needle
 - Reach for the stars
 
 **Hip Flexors**
-
 - Kneeling Lunge
 - Wide Squat
 - Frog
 
 #### 10-15 Warmup (On Water)
-
 - Gentle Paddle
 - Start to speed it up a bit
 - Head around the Buoys
@@ -56,7 +53,7 @@ Remember the Basics
 - Relays 	M Shaped Course but with looser corners
 
 #### 115-120 	Warmdown 	 
-- Car Parl area 
+- Car Park area 
 
 #### Goals
 - Chat about Goals
