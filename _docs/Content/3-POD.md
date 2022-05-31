@@ -6,55 +6,48 @@ published: true
 ---
 
 <style>
-h2 {
-  color: black;
-  margin-left: 5px;
-  background-color: coral
+h3 {
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  background-color: blue 
 }
 </style>
 
-| 0-10  |	Warmup(On Land) | 	
-| ------- | ------ |
-|    |    |
 
-| 10-15  |	Warmup(On Water) | 	
-| ------- | ------ |
-|    |    |
 
 - Gentle Paddle
 - Start to speed it up a bit
 - Head around the Buoys
 
-
-
-
-## 15-75 	Safari Intervals 	
+### 15-75 	Safari Intervals 	
 **Heading to Todd Seat:**
 - 10 X 60 second Sprints <> 60 second Recovery ( 20 Mins)
 - 6 X 90 second Sprints <> 60 Second Recovery ( 15 Mins)
-
-
-
 
 **Return Trip from Todd Seat:**
 - 1 min RPE_8 20Seconds RPE_10 and repeat
 - Lactate Buffering (fun?)
 
-## 75-80 	Rest and Water 	 
-- Beathe...
+### 75-80 	Rest and Water 	 
+- Breathe...
 
-
-
-## 80-90 	Skills 	Fun Turn This Week:
+### 80-90 	Skills 	Fun Turn This Week:
 Concentrate on 3 Steps and then Turn
 Remember the Basics
 - Stomach, Shoulder, Superman
 - Lower centre of gravity
 - Look where you are going
 
-## 90-115 	Out and Back
+### 90-115 	Out and Back
 Relays 	M Shaped Course but with looser corners
 
-## 115-120 	Warmdown 	 
+### 115-120 	Warmdown 	 
 
-## Goals
+### Goals
+
+
+#### Table Test
+| 0-10  |	Warmup(On Land) | 	
+| ------- | ------ |
+|    |    |
