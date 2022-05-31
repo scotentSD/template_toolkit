@@ -12,7 +12,7 @@ They are deliberately "Bite Size" and as free of Jargon as possible.
 
 [Polarised Training](https://numbat70.github.io/ppg/Content/polarised/)
    - Training for Endurance and also Speed
-   - Not training teh mid ground, because this adds little to racing performance
+   - Not training the "Mid Ground", because this adds little to racing performance
    - (Epic fail on the "No Jargon" :-o )
 
 [Performance Framework](https://numbat70.github.io/ppg/Content/framework/)
