@@ -8,8 +8,9 @@ published: true
 <style>
 h2 {
   color: black;
-  margin-left: 5px;
+  margin: 5px;
   background-color: coral
+    
 }
 </style>
 
