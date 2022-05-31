@@ -6,53 +6,52 @@ published: true
 ---
 
 <style>
-h2 {
-  color: black;
+h3 {
+  color: white;
   margin: 5px;
   padding: 5px;
-  background-color: coral
-    
+  background-color: blue 
 }
 </style>
 
-### 16th May 2022
+#### 16th May 2022
 
 
-## Warmup (On Land) 
-### Thoracic Rotation * 3** 
+### Warmup (On Land) 
+#### Thoracic Rotation * 3** 
 - Rotate in the Pipe (Back of hand on rear pelvis)
 - Cat Cow
 - Thread the needle
 - Reach for the stars
 
-### Hip Flexors**
+#### Hip Flexors**
 - Kneeling Lunge
 - Wide Squat
 - Frog
 
   
-## Warmup (On Water)
+### Warmup (On Water)
 - Gentle Paddle
 - Start o speed it up a bit
 -   Head around the Buoys  
 
-## 2k time   
+### 2k time   
 - Car Park to Black Ditch Bay and Back  
 
-## Intervals   
+### Intervals   
 - Roughly 1 Min per sprint and then 1 minute rest  
 
-## Buoy Turns   
+### Buoy Turns   
 - Basics
    - Stomach, Shoulder, Superman
    - Lower centre of gravity
    - Look where you are going  
 
-## Catch Drill   
+### Catch Drill   
 - Catch Drill 
 - Single Stroke Distance Challenge  
 
-## Warmdown     
+### Warmdown     
 
-## Goals   
+### Goals   
 - Chat about types of Goals
