@@ -13,9 +13,6 @@ h2 {
 </style>
 
 
-| 10-15 	Warmup(On Water) | 	
-| ------- | 
-
 - Gentle Paddle
 - Start to speed it up a bit
 - Head around the Buoys
@@ -34,8 +31,6 @@ h2 {
 | ------- | ------ |
 |    |    |
 
-| 10-15  |	Warmup(On Water) | 	
-| ------- | ------ |
 
 **Return Trip from Todd Seat:**
 - 1 min RPE_8 20Seconds RPE_10 and repeat
