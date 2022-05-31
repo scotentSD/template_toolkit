@@ -14,12 +14,15 @@ They are deliberately "Bite Size" and as free of Jargon as possible.
    - Training for Endurance and also Speed
    - Not training teh mid ground, because this adds little to racing performance
    - (Epic fail on the "No Jargon" :-o )
+
 [Performance Framework](https://numbat70.github.io/ppg/Content/framework/)
    - Tracking, Measuring & Steering Improvements
    - Making a plan (If that's your thing)
    - Not making a plan if you don't need one
+
 [Pathways](https://numbat70.github.io/ppg/Content/pathways/) 
    - This is how you want to structure your training. Is it for fitness, racing, touring, fun etc..
    - (Racing can be fun as well)
+
 [Goals](https://numbat70.github.io/ppg/Content/goals/)
    - What do you want to get out of PPG
