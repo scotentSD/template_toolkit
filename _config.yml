@@ -1,24 +1,22 @@
 # ----
 # Site
 
-title: Clyde Performance Paddling Group
-# url: "https://numbat70.github.io/edition-jekyll-template/search/?q=friends"
-url: "https://numbat70.github.io/edition-jekyll-template/search/?q=friends"
+title: Template
+url: "https://scotentSD.github.io/ppg"
 baseurl: /ppg
 google_analytics_key: 
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /CLYDEfavicon.png
-description: Clyde PPG
+logo: /Template.png
+description: Template
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Clyde PPG
+  name: 
   links:
-    - https://github.com/numbat70/clyde
 
 # -----
 # Build
