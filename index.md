@@ -1,7 +1,7 @@
 ---
-title: Welcome to the PPG
+title: Template Site
 ---
 
-This Toolkit has been designed to make help  you improve performance in racing, touring  or  everyday paddling. 
+This is a Template site for scotentSD. 
 
 
